@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "U1pNsVyXSDEXfKFWQDTxIEhFT9YLeDOyfsySn7Lma6o=",
+  "Source": "Notes.Identity",
+  "BasePath": "_content/Notes.Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Notes.Identity\\wwwroot",
+      "Source": "Notes.Identity",
+      "ContentRoot": "C:\\Users\\Ilya Ignatiev\\Desktop\\.NET\\projects\\Notes\\Notes.Identity\\Notes.Identity\\wwwroot\\",
+      "BasePath": "_content/Notes.Identity",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ilya Ignatiev\\Desktop\\.NET\\projects\\Notes\\Notes.Identity\\Notes.Identity\\wwwroot\\Styles\\app.css",
+      "SourceId": "Notes.Identity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ilya Ignatiev\\Desktop\\.NET\\projects\\Notes\\Notes.Identity\\Notes.Identity\\wwwroot\\",
+      "BasePath": "_content/Notes.Identity",
+      "RelativePath": "Styles/app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Styles\\app.css"
+    }
+  ]
+}
